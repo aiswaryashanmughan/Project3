@@ -1,0 +1,416 @@
+.sec1{
+    background-image: url(burger.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inbox{
+    min-height: 650px;
+}
+.inbox1{
+    /* background-color: white; */
+    min-height: 300px;
+    padding: 10%;
+}
+.brand{
+    color: white !important;
+    font-family: 'Tangerine' !important;
+    font-size: 50px !important;
+
+}
+a.home{
+    color: #ffbe33 !important;
+    margin: 10px !important;
+}
+
+a.three{
+    color: white !important;
+    margin: 10px !important;
+    transition: 0.5s;
+}
+a.three:hover{
+    color: #ffbe33 !important;
+    transition: 0.5s;
+}
+.fill{
+    font-weight: bold;
+}
+button.btn{
+    color: white !important;
+    background-color: #ffbe33 !important;
+    border-radius: 30px;
+    padding: 9px 30px;
+    transition: 0.5s;
+}
+.btn:hover{
+    background-color: orange !important;
+    transition: 0.5s;
+}
+a.order{
+    color: white;
+    background-color: #ffbe33;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 30px;
+    margin-top: 20px;
+    display: inline-block;
+    transition: 0.5s;
+    
+}
+a.order:hover{
+    background-color: orange !important;
+    transition: 0.5s;
+    color: white;
+    
+}
+h1.fast{
+    color: white;
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Tangerine' !important;
+    font-size: 80px;
+}
+p.dolor{
+    color: white;
+    font-family:sans-serif;
+
+}
+
+/* section 2 */
+.sec2{
+    margin-top: 5%;
+}
+div.inbox3{
+    background-color: #222831;
+    min-height: 100px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 4% 5%;
+
+}
+.inbox4:hover .img1{
+    transform: scale(1.1);
+    transition: 1S;
+
+}
+div.inbox4{
+    border-radius: 50%;
+    border:5px solid #ffbe33;
+    text-align: Center;
+    /* padding: 10% 10%; */
+    overflow: hidden;
+    
+
+}
+img.img1{
+    border-radius: 50%;
+    transition: 1S;
+
+}
+p.tasty{
+    color: white;
+    line-height: 0;
+    font-family: 'Tangerine' !important;
+    font-size: 40px;
+    font-weight: bold;
+}
+span.off{
+    color: white;
+    font-size: 50px;
+    font-family: 'Tangerine' !important;
+    font-size: 100px;
+    line-height: 0.5;
+    
+}
+span.off2{
+    font-size: 25px;
+    
+}
+.inbox5{
+    padding: 10% 0px;
+}
+
+/* section 3 */
+section.sec3{
+    margin-top: 5%;
+}
+div.inbox6{
+    /* background-color: green; */
+    min-height: 50px;
+    text-align: center;
+    padding: 1% 0%;
+}
+div.inbox7{
+    /* background-color: tomato; */
+    height: 50px;
+    text-align: center;
+    padding: 3% 0%;
+}
+.menu{
+    font-family: 'Tangerine' !important;
+    font-weight: bold;
+    font-size: 50px;
+}
+a.all, .burger, .pizza, .pasta, .fries{
+    text-decoration: none;
+    margin: 10px;
+    transition: 0.5s;
+}
+a.all{
+    color: white;
+    background-color: black;
+    padding: 5px 20px;
+    border-radius: 30px;
+}
+a.all:hover{
+    color: white;
+}
+a.burger, .pizza, .pasta, .fries{
+    color: black;
+    border-radius: 30px;
+}
+a.burger:hover{
+    color: white;
+    background-color: black;
+    padding: 5px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+a.pizza:hover{
+    color: white;
+    background-color: black;
+    padding: 5px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+a.pasta:hover{
+    color: white;
+    background-color: black;
+    padding: 5px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+a.fries:hover{
+    color: white;
+    background-color: black;
+    padding: 5px 20px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+.inbox8, .inbox10, .inbox12, .inbox14, .inbox16, .inbox18, .inbox20, .inbox22, .inbox24{
+    background: #222831;
+    min-height: 450px;
+    margin-top: 5%;
+    border-radius: 20px;
+
+}
+.inbox9, .inbox11, .inbox13, .inbox15, .inbox17, .inbox19, .inbox21, .inbox23, .inbox25{
+    background-color: #f1f2f3;
+    min-height: 225px;
+    border-radius: 0px 0px 0px 50px;
+    text-align: center;
+}
+.inbox9:hover .pizza{
+    transform: scale(1.1);
+}
+i.cart{
+    background-color: #ffbe33;
+    padding: 10px 13px;
+    border-radius: 50%;
+}
+.pizza{
+    margin-top: 10%;
+}
+.inbox26{
+    padding: 20px;
+    color: white;
+}
+.demo{
+    /* font-family: sans-serif; */
+}
+.inbox28{
+    float: right;
+}
+div.inbox29{
+    min-height: 50px;
+    text-align: center;
+    padding: 5% 0%;
+}
+.view{
+    text-decoration: none;
+    color: white !important;
+    background-color: #ffbe33 !important;
+    border-radius: 30px;
+    padding: 9px 30px;
+    transition: 0.5s;
+}
+.view:hover{
+    background-color: orange;
+    transition: 0.5s;
+}
+/* section 4 */
+
+section.sec4{
+    background: #222831;
+    padding: 1% 0%;
+}
+.inbox30, .inbox31{
+    /* background-color: white; */
+    min-height: 500px;
+    color: white;
+}
+.inbox31{
+    padding: 30% 0%;
+}
+.we{
+    font-family: 'Tangerine' !important;
+    line-height: 2;
+
+}
+.there{
+    font-family: sans-serif;
+
+}
+a.read{
+    text-decoration: none;
+    color: white;
+    background-color: #ffbe33;
+    padding: 9px 25px;
+    border-radius: 30px;
+    line-height: 5;
+    transition: 0.5s;
+
+}
+a.read:hover{
+    color: white;
+    background-color: orange;
+    transition: 0.5s;
+}
+/* section 5 */
+.sec5{
+    margin-top: 5%;
+}
+.inbox32{
+    /* background-color: black; */
+    min-height: 50px;
+}
+.inbox33{
+    min-height: 250px;
+    margin-top: 5%;
+}
+.inbox34{
+    min-height: 250px;
+    border-radius: 30px;
+    margin-top: 5%;
+}
+.frame{
+    border-radius: 20px;
+}
+.book{
+    /* font-family: 'Dancing Script', cursive !important; */
+    font-family: 'Tangerine' !important;
+    font-weight: bold;
+
+}
+.type{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 0px 20px;
+
+}
+.inbox35{
+    padding: 5% 0%;
+}
+a.booknow{
+    color: white;
+    background-color: #ffbe33;
+    padding: 10px 40px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+/* section 6 */
+.sec6{
+    margin-top: 5%;
+}
+.inbox36{
+    text-align: center;
+    min-height: 30px;
+}
+.what{
+    font-family: 'Tangerine' !important;
+    font-weight: bold;
+
+}
+.inbox37, .inbox38{
+    background-color: black;
+    min-height: 200px;
+    border-radius: 5px;
+    color: #f1f2f3;
+    padding: 20px;
+    position: relative;
+    margin-top: 5%;
+}
+
+.client{
+    border-radius: 50%;
+    border: 5px solid #ffbe33;
+}
+.inbox39{
+    margin-top: 20px;
+    position: relative;
+}
+div.rotate{
+    background-color: #ffbe33;
+    height: 20px;
+    width: 20px;
+    transform: rotate(40deg);
+    position: absolute;
+    top: -5px;
+    left: 22%;
+    z-index: -1;
+    margin: auto;
+    display: flex;
+}
+/* section 7 */
+.sec7{
+    background: #222831;
+    padding: 5% 0%;
+    margin-top: 5%;
+
+}
+.inbox40{
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+    min-height: 250px;
+    margin-top: 0px;
+}
+i.face{
+    color: #222831;
+    margin: 3px;
+    background-color:white ;
+    padding: 7px 10px;
+    border-radius: 50%;
+}
+.location{
+    text-decoration: none;
+    color: white;
+}
+.contact, .feane, .open{
+    font-family: 'Tangerine' !important;
+    font-size: 50px;
+}
+.feane{
+    text-decoration: none !;
+    color: white;
+}
+.inbox41{
+    text-align: center;
+    color: white;
+}
+
+@media(max-width:575px){
+    .inbox5, .inbox31{
+        text-align: center;
+    }
+}
